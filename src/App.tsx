@@ -89,7 +89,12 @@ export default function App() {
           sections={CHAPTER_SECTIONS[modal.chapterKey]}
           activeIndex={modal.index}
           isOpen={true}
-          onClose={() => setModal(null)}
+          onClose={() => {
+            setModal(null);
+            if (view === "home") {
+              setActiveChapter(null);
+            }
+          }}
           onChangeIndex={(index) =>
             setModal((m) => (m ? { ...m, index } : m))
           }
