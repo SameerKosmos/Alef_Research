@@ -1,13 +1,23 @@
 import { motion } from "framer-motion";
 import type { ChapterSection } from "../config/chapterContent";
 
+// 1. Import each card image (put the files in src/assets/cards/).
+// import techbasisImg from "../assets/cards/techbasis.jpg";
+// import faradnImg from "../assets/cards/faradn.jpg";
+
+// 2. Map each image to the matching section id (the same id used in
+//    chapterContent.ts / newPagesContent.ts).
+const CARD_IMAGES: Record<string, string> = {
+  // techbasis: techbasisImg,
+  // faradn: faradnImg,
+};
+
 interface ChapterGridProps {
   sections: ChapterSection[];
   onSelect: (sectionId: string) => void;
 }
 
-// A small rotating set of gradients gives each card a distinct look without
-// fabricating bespoke illustrations we don't actually have as source assets.
+// Fallback gradients for any card that doesn't have a real image yet.
 const CARD_GRADIENTS = [
   "linear-gradient(135deg, #1e0714 0%, #3a1626 45%, #b7a089 100%)",
   "linear-gradient(135deg, #050816 0%, #1e0714 55%, #8a6f4d 100%)",
@@ -28,16 +38,32 @@ export default function ChapterGrid({ sections, onSelect }: ChapterGridProps) {
             whileHover={{ scale: 1.02 }}
             className="text-left rounded-2xl overflow-hidden border border-alef-gold/40 shadow-md group"
           >
-            <div
-              className="h-40 md:h-48 w-full flex items-end p-4"
-              style={{
-                backgroundImage: CARD_GRADIENTS[i % CARD_GRADIENTS.length],
-              }}
-            >
-              <span className="font-bold italic text-white text-sm md:text-base drop-shadow">
-                {section.heading}
-              </span>
-            </div>
+            {CARD_IMAGES[section.id] ? (
+              <div className="relative h-40 md:h-48 w-full">
+                <img
+                  src={CARD_IMAGES[section.id]}
+                  alt={section.heading}
+                  loading="lazy"
+                  className="absolute inset-0 w-full h-full object-cover"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent flex items-end p-4">
+                  <span className="font-bold italic text-white text-sm md:text-base drop-shadow">
+                    {section.heading}
+                  </span>
+                </div>
+              </div>
+            ) : (
+              <div
+                className="h-40 md:h-48 w-full flex items-end p-4"
+                style={{
+                  backgroundImage: CARD_GRADIENTS[i % CARD_GRADIENTS.length],
+                }}
+              >
+                <span className="font-bold italic text-white text-sm md:text-base drop-shadow">
+                  {section.heading}
+                </span>
+              </div>
+            )}
           </motion.button>
         ))}
       </div>

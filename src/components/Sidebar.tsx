@@ -28,7 +28,7 @@ export default function Sidebar({ onNavClick, onLogoClick, activeKey }: SidebarP
   return (
     <>
       {/* Desktop / tablet: persistent vertical sidebar, full viewport height */}
-      <aside className="hidden md:flex flex-col shrink-0 w-[240px] lg:w-[280px] min-h-screen sticky top-0 px-5 py-10 bg-alef-navy">
+      <aside className="hidden md:flex flex-col shrink-0 w-[220px] lg:w-[260px] min-h-screen sticky top-0 px-5 py-10 bg-alef-navy">
         <button
           type="button"
           onClick={handleLogoClick}
@@ -38,7 +38,7 @@ export default function Sidebar({ onNavClick, onLogoClick, activeKey }: SidebarP
           <img
             src={alefLogo}
             alt="Alef Research logo"
-            className="h-[120px] w-auto object-contain"
+            style={{ width: "clamp(130px, 14vw, 180px)", height: "auto", display: "block" }}
           />
         </button>
         <nav aria-label="Primary" className="flex flex-col gap-4">
@@ -67,7 +67,7 @@ export default function Sidebar({ onNavClick, onLogoClick, activeKey }: SidebarP
             aria-label="Alef Research home"
             className="block"
           >
-            <img src={alefLogo} alt="Alef Research logo" className="w-full max-w-[140px] sm:max-w-[160px] h-auto" />
+            <img src={alefLogo} alt="Alef Research logo" style={{ width: "clamp(80px, 24vw, 110px)", height: "auto", display: "block" }} />
           </button>
           <button
             onClick={() => setMenuOpen(true)}
@@ -110,7 +110,7 @@ export default function Sidebar({ onNavClick, onLogoClick, activeKey }: SidebarP
                   onClick={handleLogoClick}
                   aria-label="Alef Research home"
                 >
-                  <img src={alefLogo} alt="Alef Research logo" className="w-full max-w-[140px] sm:max-w-[160px] h-auto" />
+                  <img src={alefLogo} alt="Alef Research logo" style={{ width: "clamp(90px, 26vw, 120px)", height: "auto", display: "block" }} />
                 </button>
                 <button
                   onClick={() => setMenuOpen(false)}
