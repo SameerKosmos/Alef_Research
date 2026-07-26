@@ -36,10 +36,10 @@ export default function Sidebar({ onNavClick, onLogoClick, activeKey }: SidebarP
           className="block mb-14 text-left"
         >
           <img
-  src={alefLogo}
-  alt="Alef Research logo"
-  className="h-[120px] w-auto object-contain"
-/>
+          src={alefLogo}
+          alt="Alef Research logo"
+          className="h-[120px] w-auto object-contain"
+        />
         </button>
         <nav aria-label="Primary" className="flex flex-col gap-4">
           {NAV_ITEMS.map((item) => (
@@ -48,7 +48,10 @@ export default function Sidebar({ onNavClick, onLogoClick, activeKey }: SidebarP
               onClick={() => handleClick(item.key)}
               aria-haspopup="dialog"
               aria-expanded={activeKey === item.key}
-              className="text-left font-medium italic text-white text-[0.9rem] leading-snug tracking-wide hover:text-alef-gold transition-colors duration-200"
+              className="text-left font-medium italic text-white text-[0.9rem] leading-snug tracking-wide hover:text-alef-gold transition-colors duration-200 w-fit border-b-2 pb-0.5"
+              style={{
+                borderColor: activeKey === item.key ? "#4DA3FF" : "transparent",
+              }}
             >
               {item.label}
             </button>
@@ -128,7 +131,10 @@ export default function Sidebar({ onNavClick, onLogoClick, activeKey }: SidebarP
                     onClick={() => handleClick(item.key)}
                     aria-haspopup="dialog"
                     aria-expanded={activeKey === item.key}
-                    className="text-left font-medium italic text-white text-lg hover:text-alef-gold transition-colors duration-200"
+                    className="text-left font-medium italic text-white text-lg hover:text-alef-gold transition-colors duration-200 w-fit border-b-2 pb-0.5"
+                    style={{
+                      borderColor: activeKey === item.key ? "#4DA3FF" : "transparent",
+                    }}
                   >
                     {item.label}
                   </button>
