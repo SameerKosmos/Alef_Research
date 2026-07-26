@@ -36,10 +36,10 @@ export default function Sidebar({ onNavClick, onLogoClick, activeKey }: SidebarP
           className="block mb-14 text-left"
         >
           <img
-            src={alefLogo}
-            alt="Alef Research logo"
-            style={{ width: "clamp(130px, 14vw, 180px)", height: "auto", display: "block" }}
-          />
+  src={alefLogo}
+  alt="Alef Research logo"
+  className="h-[120px] w-auto object-contain"
+/>
         </button>
         <nav aria-label="Primary" className="flex flex-col gap-4">
           {NAV_ITEMS.map((item) => (
