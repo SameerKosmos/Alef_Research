@@ -23,7 +23,7 @@ const DUPLICATED_IN_NEW_PAGES = new Set([
 ]);
 
 const companySectionsDeduped: ChapterSection[] = companyContent.filter(
-  (s) => !DUPLICATED_IN_NEW_PAGES.has(s.id)
+  (s) => !DUPLICATED_IN_NEW_PAGES.has(s.id),
 );
 
 export const CHAPTER_SECTIONS: Record<ChapterKey, ChapterSection[]> = {
@@ -34,5 +34,6 @@ export const CHAPTER_SECTIONS: Record<ChapterKey, ChapterSection[]> = {
   coworker: [NEW_PAGES.coworker],
   bizplan: [NEW_PAGES.bizplan],
   news: [NEW_PAGES.news],
+  thanks: [NEW_PAGES.thanks],
   contact: [NEW_PAGES.contact],
 };

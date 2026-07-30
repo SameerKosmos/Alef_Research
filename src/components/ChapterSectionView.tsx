@@ -5,6 +5,33 @@ interface ChapterSectionViewProps {
   section: ChapterSection;
 }
 
+function renderInlineText(text: string) {
+  const parts = text.split(/(\[[^\]]+\]\([^\)]+\))/g);
+
+  return parts.map((part, index) => {
+    const match = part.match(/^\[([^\]]+)\]\(([^\)]+)\)$/);
+    if (!match) {
+      return <span key={index}>{part}</span>;
+    }
+
+    const [, label, href] = match;
+    const isExternal = href.startsWith("http") || href.startsWith("https");
+
+    return (
+      <a
+        key={index}
+        href={href}
+        target={isExternal ? "_blank" : undefined}
+        rel={isExternal ? "noopener noreferrer" : undefined}
+        onClick={(event) => event.stopPropagation()}
+        className="font-semibold text-alef-gold-dark underline underline-offset-4 hover:text-alef-ink transition-colors"
+      >
+        {label}
+      </a>
+    );
+  });
+}
+
 export default function ChapterSectionView({
   section,
 }: ChapterSectionViewProps) {
@@ -25,7 +52,7 @@ export default function ChapterSectionView({
                   key={i}
                   className="font-semibold text-alef-ink text-[0.95rem] md:text-base leading-relaxed text-left"
                 >
-                  {block.text}
+                  {renderInlineText(block.text)}
                 </p>
               );
             }
@@ -38,7 +65,7 @@ export default function ChapterSectionView({
                   <span className="font-bold text-alef-gold-dark mr-1">
                     {block.marker}
                   </span>
-                  {block.text}
+                  {renderInlineText(block.text)}
                 </p>
               );
             }
@@ -60,6 +87,7 @@ export default function ChapterSectionView({
                   href={block.href}
                   target={block.href.startsWith("http") ? "_blank" : undefined}
                   rel={block.href.startsWith("http") ? "noopener noreferrer" : undefined}
+                  onClick={(event) => event.stopPropagation()}
                   className="font-semibold text-alef-gold-dark underline underline-offset-4 text-[0.95rem] md:text-base text-center block hover:text-alef-ink transition-colors"
                 >
                   {block.label}
