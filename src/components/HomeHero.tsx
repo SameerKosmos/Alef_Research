@@ -11,7 +11,7 @@ export default function HomeHero() {
         className="font-bold italic text-xl sm:text-2xl md:text-3xl lg:text-4xl leading-snug text-alef-ink text-center"
       >
         Alef Research is building the foundations for humanity's utopian
-        future beyond Earth.
+        future beyond Earth
       </motion.h1>
 
       <motion.div
@@ -39,26 +39,11 @@ export default function HomeHero() {
           slate approach, biological innovation, circular production,
           timeless design, gentleness, beauty, are buildable anywhere in the
           kosmos ( space ) and have natural values including by abolishing
-          feudalism, tax, profit and class system.
+          feudalism, tax ( including money ), profit, class system and tribalism.
         </p>
         <p>
           This is the only way towards a unified human utopia of milk, honey
           and harmony spread across the timeless and infinite kosmos.
-        </p>
-        <p>
-          Among our techo systems in design are Faradn, a compact,
-          self-sustaining electricity generator which will use Sterling
-          Engine and will produce 40 volts DC continuously for at least a
-          month; Zarra-A airship-type orbital kosmos ship; Zarra-C
-          hollowed-asteroid long-distance kosmos ship; Propulsion of our
-          kosmos ships using steam, coal and biology; Moggy robot cats; Dune
-          Buk wearable computer which uses sound for computation instead of
-          semi-conductor transistors; Stillsuit kosmos suit.
-        </p>
-        <p>
-          Our draft social system for the kosmos is called Iskra and it
-          includes the Worker Cooperative concept as the democratic
-          arrangement for humans traveling and living in the kosmos.
         </p>
       </motion.div>
     </section>
