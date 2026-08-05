@@ -19,6 +19,7 @@ export const founders: Founder[] = [
     photo: sameerPhoto,
     bio: [
       `Sameer started with computer science but he now is a general researcher with interests ranging from generation of electricity to organization of society, like those general researchers of old like Hasan Ibn al-Haytham ( known as Alhazen to Europe ), Leonardo da Vinci and Jagadish Chandra Bose.`
+      `Sameer's LinkedIn profile : https://in.linkedin.com/in/sameer-alef-research`
     ]
   },
   {

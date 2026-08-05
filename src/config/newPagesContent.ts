@@ -42,7 +42,7 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(f).",
-      text: "If you have no love for feudalism and profit and consider money as a temporary necessity for the now but which must be eventually abolished. Our company is a non-profit and Worker Cooperative type so is without feudalism, capitalism, profiteering but with internal democracy.",
+      text: "If you have no love for feudalism and profit and consider money as a temporary necessity for the now but which must be eventually abolished. Our company is a non-profit and Worker Cooperative type so is without feudalism, capitalism, profiteering but is with internal democracy.",
     },
     {
       type: "point",
@@ -77,7 +77,7 @@ const bizPlanPage: ChapterSection = {
     },
     {
       type: "p",
-      text: "Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which any of their society's citizens can become kosmonauts who can travel through the kosmos, including the first human hollowed-asteroid city ZC-L000-S000-C000-NAlif which we will build by 2035.",
+      text: "Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which any of their society's citizens can become kosmonauts who can travel through the kosmos, including the first human hollowed-asteroid city ZC-S000-C000-NAlif which we will build by 2035.",
     },
     {
       type: "p",
@@ -93,7 +93,7 @@ const bizPlanPage: ChapterSection = {
     },
     {
       type: "p",
-      text: "Our ten million dollar license fee is a very small fraction of what a single rich individual pays now for a single ticket to visit and stay, not on the Moon even which is about 380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads.",
+      text: "Our ten million dollar license fee is a small fraction of what a single rich individual pays now for a single ticket to visit and stay, not on the Moon even which is about 380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads.",
     },
     {
       type: "p",
@@ -300,7 +300,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(c0).",
-      text: "Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company.",
+      text: "Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company. This social fund will be for helping citizens anywhere towards emergency situations like funeral expenses and medical expenses when the citizens are unable to find help otherwise.",
     },
     {
       type: "point",
