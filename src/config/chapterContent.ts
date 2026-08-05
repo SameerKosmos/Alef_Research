@@ -229,7 +229,8 @@ export const technosystemsContent: ChapterSection[] = [
     { type: "p", text: `And then once this craft is in the kosmik void it will be given brief pushes by coal combustion and bacteria propulsion for very-high-speed direction-giving but will be propelled largely by water steam jets where through an arrangement most of the steam is recovered to water, re-turned to steam and jetted again to enable longer-distance continuous-thrust travel. Thus the water steam here is a largely recoverable fuel.` },
     { type: "p", text: `Coal combustion and or or bacteria propulsion will also be used for effects like braking and positioning near destinations and then for descent on some world.` },
     { type: "p", text: `The Zarra-A will also allow for short-distance kosmos travel like from Earth to Moon's surface.` },
-    { type: "p", text: `This Zarra-A airship-type flying vehicle will also be usable on Earth and on other worlds for emergency situations like rescue, dousing of forest fire and other uses. One general-purpose flying vehicle for multiple uses.` }
+    { type: "p", text: `The Zarra-A airship-type flying vehicle will also be usable on Earth and other worlds not only for regular on-world flights ( like between cities and continents ) but also in emergency situations like rescue, dousing of forest fire and other uses. One general-purpose large flying vehicle for multiple uses.` },
+    { type: "p", text: `The first Earth-orbit crewed test flight of our Zarra-A airship-kosmosship will be in 2033.` }
   ]
   },
   {
