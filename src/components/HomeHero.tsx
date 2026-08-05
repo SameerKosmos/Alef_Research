@@ -36,7 +36,8 @@ export default function HomeHero() {
       >
         <p>
           We are designing all necessary techno-social systems required for humans to 
-          travel to the kosmos ( space ) and settle in the kosmos.
+          travel to the kosmos ( space ), live within hollowed asteroid cities and travel wherever
+          these asteroid cities can be made to go.
         </p>
         <p>
           Our techno-social systems combine simplified engineering, clean
