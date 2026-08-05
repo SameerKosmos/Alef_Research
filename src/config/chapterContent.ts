@@ -229,7 +229,8 @@ export const technosystemsContent: ChapterSection[] = [
     { type: "p", text: `And then once this craft is in the kosmik void it will be given brief pushes by coal combustion and bacteria propulsion for very-high-speed direction-giving but will be propelled largely by water steam jets where through an arrangement most of the steam is recovered to water, re-turned to steam and jetted again to enable longer-distance continuous-thrust travel. Thus the water steam here is a largely recoverable fuel.` },
     { type: "p", text: `Coal combustion and or or bacteria propulsion will also be used for effects like braking and positioning near destinations and then for descent on some world.` },
     { type: "p", text: `The Zarra-A will also allow for short-distance kosmos travel like from Earth to Moon's surface.` },
-    { type: "p", text: `This Zarra-A airship-type flying vehicle will also be usable on Earth and on other worlds for emergency situations like rescue, dousing of forest fire and other uses. One general-purpose flying vehicle for multiple uses.` }
+    { type: "p", text: `The Zarra-A airship-type flying vehicle will also be usable on Earth and other worlds not only for regular on-world flights ( like between cities and continents ) but also in emergency situations like rescue, dousing of forest fire and other uses. One general-purpose large flying vehicle for multiple uses.` },
+    { type: "p", text: `The first Earth-orbit crewed test flight of our Zarra-A airship-kosmosship will be in 2033.` }
   ]
   },
   {
@@ -1289,7 +1290,7 @@ export const companyContent: ChapterSection[] = [
     heading: `05. Our simple business model`,
     blocks: [
     { type: "p", text: `We are a non-profit, B2G design organization and our direct clients will be the space departments of national governments who will purchase the designs of our products for a reasonably cheap license fee ( one million dollars ) and build our systems in their societies as many as possible and make them available to their citizens without feudalism and tax.` },
-    { type: "p", text: `Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which any of your society's citizens can become kosmonauts who can travel to the first asteroid city ZC-S000-000 by 2035 and travel throughout the Solar System by 2035.` },
+    { type: "p", text: `Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which any of your society's citizens can become kosmonauts who can travel to the first asteroid city ZC-S000-C000-NAlif by 2035 and travel throughout the Solar System by 2035.` },
     { type: "p", text: `And these citizens of yours will bring back experiences and materials from there to your societies in a pan-human, democratic way so that your societies are intellectually enriched, materially enriched and contribute to humanity within the bounds of respect for Nature and a pan-human "Liberty, Equality, Fraternity, Evolution".` },
     { type: "p", text: `Our one million dollar license fee is a very small fraction of what a single rich individual pays now for a single ticket to visit and stay, not on the Moon even which is 380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads.` },
     { type: "p", text: `The single person tickets presently cost at least 50 million dollars... and ours is one million dollars for an entire space program which can transport many people at once throughout the Solar System.` },
