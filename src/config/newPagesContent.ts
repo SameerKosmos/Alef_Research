@@ -27,12 +27,12 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(c).",
-      text: "If your spoken and written language is simple, gentle, honest, receptive, educated ( in the real sense ) and enlightened. Not language full of nonsense corporate buzzwords ( Cutting Edge, Center of Excellence, Paradigm Shift etc ).",
+      text: "If your spoken and written language is simple, gentle, honest, receptive, educated in the real sense and enlightened. Not language full of nonsense corporate buzzwords ( Cutting Edge, Center of Excellence, Paradigm Shift etc ).",
     },
     {
       type: "point",
       marker: "(d).",
-      text: "If you respect the natural laws which we present in our website's three chapters.",
+      text: "If you respect the natural laws which we present in our website's "Our techno systems" chapter and "Our social system - Iskra"  chapter.",
     },
     {
       type: "point",
@@ -42,7 +42,7 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(f).",
-      text: "If you have no love for feudalism and profit and consider money as a temporary necessity for the now but which must be eventually abolished. Our company is a non-profit and Worker Cooperative type so is without feudalism, capitalism, profiteering but is with internal democracy.",
+      text: "If you have no love for feudalism and profit and consider money as a temporary necessity for the now but which must be eventually abolished. Our company is a non-profit and is internally democratic via the concept of Worker Cooperatives. To know more about the Worker Cooperative concept please read the "Social organization of kosmonauts" topic in the "Our social system - Iskra" chapter.",
     },
     {
       type: "point",
@@ -77,11 +77,11 @@ const bizPlanPage: ChapterSection = {
     },
     {
       type: "p",
-      text: "Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which any of their society's citizens can become kosmonauts who can travel through the kosmos, including the first human hollowed-asteroid city ZC-S000-C000-NAlif which we will build by 2035.",
+      text: "Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which any of their society's citizens can become kosmonauts who can travel through the kosmos, including to the first human hollowed-asteroid city ZC-S000-C000-NAlif which we will build by 2035.",
     },
     {
       type: "p",
-      text: "These Earthen citizens can participate in the building of such Zarra-C type traveling hollowed-asteroid cities and they can become citizens of such traveling asteroid cities and can thus travel across the kosmos.",
+      text: "These Earthen citizens can participate in the building of such Zarra-C type traveling hollowed-asteroid cities and they can become citizens of such traveling asteroid cities and travel across the kosmos.",
     },
     {
       type: "p",
@@ -93,23 +93,23 @@ const bizPlanPage: ChapterSection = {
     },
     {
       type: "p",
-      text: "Our ten million dollar license fee is a small fraction of what a single rich individual pays now for a single ticket to visit and stay, not on the Moon even which is about 380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads.",
+      text: "Our ten million dollar license fee is a fraction of what a single rich individual pays now for a single ticket to visit and stay, not on the Moon even which is about 380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads.",
     },
     {
       type: "p",
-      text: "The single person tickets presently cost at least 50 million dollars... and ours is ten million dollars for an entire space program which can transport many people at once throughout the Solar System.",
+      text: "The single person tickets presently cost at least 50 million dollars... and ours is ten million dollars for an entire space program which can transport hundreds of people at once throughout the Solar System in comfort, harmony and true prosperity.",
     },
     {
       type: "p",
-      text: "Also in today's terms, our ten million dollar license fee is similar to the license fee for a company to acquire the design of a single type of commercial microprocessor for use in cell phones.",
+      text: "Also in today's terms, our ten million dollar license fee is similar to the license fee for a company to acquire the design of a single type of commercial electronic microprocessor for use in cell phones.",
     },
     {
       type: "p",
-      text: "So, for just ten million dollars our client national space departments will acquire the design of our techno systems for an entire space program by which their citizens can travel and settle the entire Solar System in the intermediate term and this in a harmonious and pan-human way.",
+      text: "So, for just ten million dollars our client national space departments will acquire the design of our techno systems for an entire space program by which their citizens can travel and settle the entire Solar System in the intermediate term and this in a pan-human harmonious way.",
     },
     {
       type: "p",
-      text: 'We choose not to be "space trillionaires" who want to impose the evil ideas of feudalism, tax, money, profit and class even on Nature\'s creations in the vast kosmos.',
+      text: 'We could have asked for license fee of billions of dollars but we choose not to be "space trillionaires" who want to impose the evil ideas of feudalism, tax, money, profit and class even on Nature\'s creations in the vast kosmos.',
     },
     {
       type: "p",
