@@ -36,12 +36,12 @@ export default function HomeHero() {
       >
         <p>
           We are designing all necessary techno-social systems required for humans to 
-          travel to the kosmos ( space ), live within hollowed asteroid cities and travel wherever
+          travel to the kosmos ( space ), live in the kosmos within hollowed asteroid cities and travel wherever
           these asteroid cities can be made to go.
         </p>
         <p>
           Our techno-social systems combine simplified engineering, clean
-          slate approach, biological innovation, circular production,
+          slate approach, biological innovation, decentralized production, circular production,
           timeless design, gentleness, beauty, are buildable anywhere in the
           kosmos and have natural values including by abolishing
           feudalism, tax ( including money ), profit, class system and tribalism.
