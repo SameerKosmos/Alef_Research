@@ -32,7 +32,7 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(d).",
-      text: "If you respect the natural laws which we present in our website's "Our techno systems" chapter and "Our social system - Iskra"  chapter.",
+      text: "If you respect the natural laws which we present in our website in two chapters, one about our techno systems and the other about our social system called Iskra.",
     },
     {
       type: "point",
@@ -42,7 +42,7 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(f).",
-      text: "If you have no love for feudalism and profit and consider money as a temporary necessity for the now but which must be eventually abolished. Our company is a non-profit and is internally democratic via the concept of Worker Cooperatives. To know more about the Worker Cooperative concept please read the "Social organization of kosmonauts" topic in the "Our social system - Iskra" chapter.",
+      text: "If you have no love for feudalism and profit and consider money system as an irrational presence in the now, thus which must be eventually abolished. Our company is a non-profit and is internally democratic via the concept of Worker Cooperatives. To know more about the Worker Cooperative concept please read the topic about social organization of kosmonauts in our chapter about our social system Iskra.",
     },
     {
       type: "point",
