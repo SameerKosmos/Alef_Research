@@ -171,7 +171,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(03).",
-      text: "The 2009 Hindi film 'Rocket Singh : Salesman of the Year' for being one of the inspirations for us thinking about the idea of Worker Cooperative",
+      text: "The 2009 Hindi film 'Rocket Singh : Salesman of the Year' for being one of the inspirations for us thinking about democracy in organizations and the idea of Worker Cooperative.",
     },
     {
       type: "point",
@@ -186,7 +186,12 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(05).",
-      text: "Robert Murray-Smith on his YouTube channel 'ThinkingandTinkering' for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. The vibrator produces the pulsed current required by the primary of a step-up transformer.",
+      text: "Robert Murray-Smith for a video on his YouTube channel 'ThinkingandTinkering' about the old idea of using a simple electro-mechanical vibrator for the purpose of amplification of electricity. The vibrator is made using a simple electro-magnetic relay.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "The vibrator produces the pulsed current required by the primary side of a electro-magnetic step-up transformer so that the secondary side of the step-up transformer produces an amplified AC current.",
     },
     {
       type: "point",
@@ -201,13 +206,18 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(06).",
-      text: "[Bellows](https://en.wikipedia.org/wiki/Bellows)",
+      text: "[Bellows](https://en.wikipedia.org/wiki/Bellows).",
     },
     {
       type: "point",
       marker: "(07).",
       text: "Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology ( EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.",
     },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "This article is on this link [physics world](https://physicsworld.com/a/analogue-computer-could-use-sound-to-make-rapid-calculations/).",
+    },    
     {
       type: "point",
       marker: "(08).",
