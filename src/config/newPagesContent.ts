@@ -140,11 +140,12 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(a0).",
+      marker: "(01).",
       text: "Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water-powered turbine in a discussion which hours later led to us re-thinking about the idea of turbines powered by compressed air.",
     },
     {
-      type: "p",
+      type: "point",
+      marker: "type: "point", marker: `\u21B3`",
       text: "Thanks to him also for provoking the idea in us for our website's topic against free market, money and profit which is in the 'Our social system' chapter.",
     },
     {
@@ -153,7 +154,7 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(a1).",
+      marker: "(02).",
       text: "Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the 'sand battery'.",
     },
     {
@@ -166,7 +167,7 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(a2).",
+      marker: "(03).",
       text: "The 2009 Hindi film 'Rocket Singh : Salesman of the Year' for being one of the inspirations about the idea of Worker Cooperative",
     },
     {
@@ -175,12 +176,12 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(a3).",
+      marker: "(04).",
       text: "YouTube and Wikipedia in general.",
     },
     {
       type: "point",
-      marker: "(a4).",
+      marker: "(05).",
       text: "Robert Murray-Smith on his YouTube channel 'ThinkingandTinkering' for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay.",
     },
     {
@@ -193,17 +194,17 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(a5).",
+      marker: "(06).",
       text: "[Bellows](https://en.wikipedia.org/wiki/Bellows)",
     },
     {
       type: "point",
-      marker: "(a6).",
+      marker: "(07).",
       text: "Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology ( EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.",
     },
     {
       type: "point",
-      marker: "(a7).",
+      marker: "(08).",
       text: "RMIT University, Australia, for the idea that sound can be used to make electrolysis better and make use of cheaper electrode material. The article saying this is here [Power Engineering](https://www.power-eng.com/hydrogen/sound-waves-boost-green-hydrogen-production/#) so we also thank the website [power-eng.com](https://www.power-eng.com).",
     },
     {
@@ -220,12 +221,12 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(a9).",
+      marker: "(09).",
       text: "Planetary Science Division of NASA for the idea of creating an artificial magnetosphere for Red One.",
     },
     {
       type: "point",
-      marker: "(b0).",
+      marker: "(10).",
       text: "Coke Studio Bangla Season One for presenting the song 'Shob Lokey Koy' which is among our inspirations for our social system for the kosmos.",
     },
     {
@@ -238,7 +239,7 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(b1).",
+      marker: "(11).",
       text: "The website [constitutionofindia.net](https://www.constitutionofindia.net) for the info about the discussions during the early years of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani and Brajeshwar Prasad.",
     },
     {
@@ -247,7 +248,7 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(b2).",
+      marker: "(12).",
       text: "Ashok on the 'Nationalizer' account on [Medium](https://medium.com) for his essay about the Indian Socialist Brajeshwar Prasad who spoke in favour of Socialism during the design years of the Indian constitution",
     },
     {
@@ -256,12 +257,12 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(b3).",
+      marker: "(13).",
       text: "Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be read here [Tagore essay](https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf) so we also thank Queen's University of Canada.",
     },
     {
       type: "point",
-      marker: "(b4).",
+      marker: "(14).",
       text: " BR Ambedkar among other things, for saying in a 1953 vid interview with BBC that the so-called Democratic Process of five-yearly elections participated by multiple political parties and producing a stream of pompously titled bureaucrats, is not actual democracy and will never produce a society which brings proper food and other reasonable material needs to the masses and will never change society from feudalism to true democracy, but that change can be brought by Socialism.",
     },
     {
@@ -274,62 +275,62 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(b5).",
+      marker: "(15).",
       text: "Che Guevara for his 1964 speech in the United Nations General Assembly, from which we take our mention of Mammon, and the YouTube channel of United Nations which carries this speech on this page [United Nations](https://www.youtube.com/watch?v=bufHojkoGtw).",
     },
     {
       type: "point",
-      marker: "(b6).",
+      marker: "(16).",
       text: "The media agency 'The Atlantic' for this article about Yuri Gagarin's flight around Earth [The Atlantic](https://www.theatlantic.com/technology/archive/2011/04/yuri-gagarins-first-speech-about-his-flight-into-space/237134/).",
     },
     {
       type: "point",
-      marker: "(b7).",
-      text: "The website 'Go Physics' for this collection of Yuri Gagarin's quotes [Go Physics](https://thegophysics.com/yuri-gagarin-quotes/)",
+      marker: "(17).",
+      text: "The website 'Go Physics' for this collection of Yuri Gagarin's quotes [Go Physics](https://thegophysics.com/yuri-gagarin-quotes/).",
     },
     {
       type: "point",
-      marker: "(b8).",
+      marker: "(18).",
       text: "The website [4lit](https://en.4lit.net) for sayings by Fidel Castro at this page [Fidel Castro quotes](https://en.4lit.net/citaty/people/1088/fidel_castro?page=2).",
     },
     {
       type: "point",
-      marker: "(b9).",
+      marker: "(19).",
       text: "The website [idcommunism](https://www.idcommunism.com) for sayings by Fidel Castro at this page [Fidel Castro quotes](https://www.idcommunism.com/2018/08/remembering-fidel-castro-ruz-quotes-on-capitalism.html).",
     },
     {
       type: "point",
-      marker: "(c0).",
+      marker: "(20).",
       text: "Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company. This social fund will be for helping citizens anywhere towards emergency situations like funeral expenses and medical expenses when the citizens are unable to find help otherwise.",
     },
     {
       type: "point",
-      marker: "(c1).",
+      marker: "(21).",
       text: "The Facebook page of the ECOSOCC department of the African Union for explaining the wonderful African concept of Ubuntu... and by extension our thanks to Facebook too. The said page is [Ubuntu post](https://www.facebook.com/africanunion.ecosocc/posts/ubuntu-is-a-concept-deeply-rooted-in-african-philosophy-and-culture-particularly/1210650454579928/).",
     },
     {
       type: "point",
-      marker: "(c2).",
+      marker: "(22).",
       text: " Rayees Kunnool for the idea about smell-based computer data communication.",
     },
     {
       type: "point",
-      marker: "(c3).",
+      marker: "(23).",
       text: " Mr. Swamy of Bangalore for the idea that water machines which produce water from air should be designed in a way where an area's localized air should not be so much extracted of its water that the air becomes dry.",
     },
     {
       type: "point",
-      marker: "(c4).",
+      marker: "(24).",
       text: " The cover art on our homepage is from the DeviantArt website's DreamUp AI picture generation facility.",
     },
     {
       type: "point",
-      marker: "(c5).",
+      marker: "(25).",
       text: "The cover art on our homepage was converted to sepia color tone using the website [sepia.imageonline.co](https://sepia.imageonline.co).",
     },
     {
       type: "point",
-      marker: "(c6).",
+      marker: "(26).",
       text: "In general we thank all the good thinkers of the past and present whose thoughts and works we use in our projects.",
     },
   ],
