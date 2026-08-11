@@ -356,6 +356,11 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(27).",
+      text: "The online paint website [jspaint.app](https://jspaint.app) for help in manipulation of images for the website.",
+    },    
+    {
+      type: "point",
+      marker: "(28).",
       text: "In general we thank all the good thinkers of the past and present whose thoughts and works we use in our projects.",
     },
   ],
