@@ -151,7 +151,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to him also for mentioning the need for vehicle-based short distance transportation for humans.",
+      text: "Thanks to him also for mentioning the need for vehicle-based short-distance transportation for those humans who have trouble walking.",
     },
     {
       type: "point",
@@ -166,7 +166,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "\u21B3",
-      text: "Sadly we forgot that Insta page's name but we are thankful to that page's maintainer and also to Instagram. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior industry use of this method and we are thankful to this company.",
+      text: "Sadly we forgot that Insta page's name but we are thankful to that page's maintainer and also to Instagram. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior industry use of this method and we are thankful to this company, and like this company we also work with techno designs even if there is no previous commercial production.",
     },
     {
       type: "point",
@@ -176,7 +176,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "\u21B3",
-      text: "There is a line in this film said by the main character Harpreet Singh Bedi - 'Jo kaam kar sakta hai, woh partner bhi bann sakta hai' which in the context of the film translates to 'If an employee can do work required in this company, he can and should become partner in the company too'.",
+      text: "There is a line in this film said by the main character Harpreet Singh Bedi - 'Jo kaam kar sakta hai, woh partner bhi bann sakta hai' which in the context of the film translates to 'If an employee can do work required in this company, he or she can and should become partner in the company too'.",
     },
     {
       type: "point",
@@ -186,12 +186,12 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(05).",
-      text: "Robert Murray-Smith on his YouTube channel 'ThinkingandTinkering' for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay.",
+      text: "Robert Murray-Smith on his YouTube channel 'ThinkingandTinkering' for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. The vibrator produces the pulsed current required by the primary of a step-up transformer.",
     },
     {
       type: "point",
       marker: "\u21B3",
-      text: "This vid called '1026 The easiest inverter you will ever make' is on this page [YouTube](https://www.youtube.com/watch?v=L-vC9SvU2Lo). This we use in our design of the Faradn generator.",
+      text: "This vid called '1026 The easiest inverter you will ever make' is on this page [YouTube](https://www.youtube.com/watch?v=L-vC9SvU2Lo).",
     },
     {
       type: "point",
