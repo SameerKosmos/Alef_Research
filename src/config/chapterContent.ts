@@ -409,7 +409,8 @@ export const technosystemsContent: ChapterSection[] = [
     { type: "point", marker: `(a).`, text: `A few general purpose designs for sand battery to provide sustained heat to larger or more complex machines. This is also important because our machines will be used in the very very low temperatures of open kosmos.` },
     { type: "point", marker: `(b).`, text: `Machines for water like pumps; portable extractors of water from ice, open water, soil and air; water purifiers; electrolysis machines.` },
     { type: "point", marker: `(c).`, text: `Interactive 3D display and touch-sensitive sound system using lightweight beads levitated by sound or other means. This type of system will be used within kosmos ships.` },
-    { type: "point", marker: `(d).`, text: `Other machines.` }
+    { type: "point", marker: `(d).`, text: `Food preparation and cooking machines.` },
+    { type: "point", marker: `(e).`, text: `Other machines.` }
   ]
   }
 ];
