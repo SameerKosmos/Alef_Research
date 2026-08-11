@@ -151,7 +151,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to him also for mentioning the need for vehicle-based short-distance transportation for those humans who have trouble walking.",
+      text: "Thanks to him also for mentioning the need for vehicle-based short-distance transportation for those people who have trouble in walking.",
     },
     {
       type: "point",
@@ -166,12 +166,12 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "\u21B3",
-      text: "Sadly we forgot that Insta page's name but we are thankful to that page's maintainer and also to Instagram. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior industry use of this method and we are thankful to this company, and like this company we also work with techno designs even if there is no previous commercial production.",
+      text: "Sadly we forgot that Insta page's name but we thank that page's maintainer, the people and organizations listed on that page and thanks also to Instagram. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior industry use of this method and we are thankful to this company, and like this company we also work with techno designs even if there is no previous commercial production.",
     },
     {
       type: "point",
       marker: "(03).",
-      text: "The 2009 Hindi film 'Rocket Singh : Salesman of the Year' for being one of the inspirations about the idea of Worker Cooperative",
+      text: "The 2009 Hindi film 'Rocket Singh : Salesman of the Year' for being one of the inspirations for us thinking about the idea of Worker Cooperative",
     },
     {
       type: "point",
