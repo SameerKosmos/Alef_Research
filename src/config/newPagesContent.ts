@@ -27,27 +27,37 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(c).",
-      text: "If your spoken and written language is simple, gentle, honest, receptive, educated in the real sense and enlightened. Not language full of nonsense corporate buzzwords ( Cutting Edge, Center of Excellence, Paradigm Shift etc ).",
+      text: "If you wish to be at the very front of human techno-social evolution.",
     },
     {
       type: "point",
       marker: "(d).",
-      text: "If you respect the natural laws which we present in our website in two chapters, one about our techno systems and the other about our social system called Iskra.",
+      text: "If your spoken and written language is simple, gentle, honest, receptive, educated in the real sense and enlightened. Not language full of nonsense corporate buzzwords ( Cutting Edge, Center of Excellence, Paradigm Shift etc ).",
     },
     {
       type: "point",
       marker: "(e).",
-      text: "If you do innovative and simplifying thinking even if going against traditions, industry standards and fashions.",
+      text: "If you respect the natural laws which we present in our website in two chapters, one about our techno systems and the other about our social system called Iskra.",
     },
     {
       type: "point",
       marker: "(f).",
+      text: "If you do innovative and simplifying thinking even if going against traditions, industry standards and fashions.",
+    },
+    {
+      type: "point",
+      marker: "(g).",
       text: "If you are a free human in true sense and agree with Liberty, Equality, Fraternity and thus dislike feudalism and profit and consider money system as an irrational, oppressive presence in the now and must be eventually abolished.",
     },
     {
       type: "point",
       marker: "\u21B3",
-      text: "Our company is a non-profit and is internally democratic via the concept of Worker Cooperative where all you workers will be equal co-owners and partners of the company and all you workers will directly and collectively manage the company. No traditional feudal company owner, no bosses, no separate managers and no oppressed subordinate employees. All are equal.",
+      text: "Our company is a non-profit and is internally democratic via the concept of Worker Cooperative where all you workers will be equal co-owners of the company and all you workers will directly and collectively manage the company on daily basis. No traditional feudal company owner, no bosses, no separate managers and no oppressed subordinate employees. All are equal in our company.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "About salary in our non-profit, democratic Worker Cooperative type of company. The income of the company, that income part which remains after repaying the investors on regular basis, this remaining part of the company income will be divided equally among all the workers of the company. And from their salary the workers will contribute equal amounts towards the upkeep expenditure for the company.",
     },
     {
       type: "point",
@@ -66,22 +76,22 @@ const coworkerPage: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(g).",
+      marker: "(h).",
       text: "If you are well-presented in clothing, grooming and talking manner. Not fake but real. Not aggressive but gentle and genuine. You should be considerate of others and help others without hesitation.",
     },
     {
       type: "point",
-      marker: "(h).",
+      marker: "(i).",
       text: "If you desire a largely secular borderless unification of humanity on Earth and in the kosmos.",
     },
     {
       type: "point",
-      marker: "(i).",
+      marker: "(j).",
       text: "If you ideally consider the cat as the most perfect animal in the kosmos, ha ha.",
     },
     {
       type: "point",
-      marker: "(j).",
+      marker: "(k).",
       text: "If you consider tea as one of the main human gifts giveable to alien cultures in the kosmos, ha ha.",
     },
   ],
