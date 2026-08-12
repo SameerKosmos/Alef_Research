@@ -27,7 +27,7 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(c).",
-      text: "If you wish to be at the very front of human techno-social evolution.",
+      text: "If you wish to be at the very front of developing human evolution from Earth to across the infinite kosmos across hundreds of years... human evolution that is intellectual, techno-social and biological.",
     },
     {
       type: "point",
