@@ -22,7 +22,7 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(b).",
-      text: "If your knowledge is actually useful to the industry of travelling and living in the kosmos in a democratic and non-profit way. So this discounts work types like HR, CSR, MBA-requiring positions, most IT-requiring positions and most finance-knowledge-requiring positions.",
+      text: "If your knowledge is actually useful to the industry of traveling and living in the kosmos in a democratic, non-profit, harmonious and Nature-respecting way. So this discounts work types like HR, CSR, MBA-requiring positions, most IT-requiring positions, most traditional-centralized-factory-system-forwarding positions and most finance-knowledge-requiring positions.",
     },
     {
       type: "point",
@@ -42,17 +42,37 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(f).",
-      text: "If you have no love for feudalism and profit and consider money system as an irrational presence in the now, thus which must be eventually abolished. Our company is a non-profit and is internally democratic via the concept of Worker Cooperatives. To know more about the Worker Cooperative concept please read the topic about social organization of kosmonauts in our chapter about our social system Iskra.",
+      text: "If you are a free human in true sense and agree with Liberty, Equality, Fraternity and thus dislike feudalism and profit and consider money system as an irrational, oppressive presence in the now and must be eventually abolished.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "Our company is a non-profit and is internally democratic via the concept of Worker Cooperative where all you workers will be equal co-owners and partners of the company and all you workers will directly and collectively manage the company. No traditional feudal company owner, no bosses, no separate managers and no oppressed subordinate employees. All are equal.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "To know more about the Worker Cooperative concept please read the topic about social organization of kosmonauts in the chapter about our social system Iskra on our website. Please also read the topic about natural equality to be a kosmonaut in the same chapter.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "Since our company Alef Research is a democracy... and rights go equally with duties in a democracy... thus every worker in our company will participate in the daily upkeep of the company, whether in cleaning the premises and grounds; or in preparing food and distributing food and cleaning their own plates and others' plates and the utensils and the kitchen; or in cleaning the toilets; or in security work; or other work.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "Our democratic and natural internal techno-social model for our company is part of our proposed model for all of human society.",
     },
     {
       type: "point",
       marker: "(g).",
-      text: "If you desire a largely secular borderless unification of humanity on Earth and in the kosmos.",
+      text: "If you are well-presented in clothing, grooming and talking manner. Not fake but real. Not aggressive but gentle and genuine. You should be considerate of others and help others without hesitation.",
     },
     {
       type: "point",
       marker: "(h).",
-      text: "If you are well-presented in clothing, grooming and talking manner. Not fake but real. Not aggressive but gentle and genuine.",
+      text: "If you desire a largely secular borderless unification of humanity on Earth and in the kosmos.",
     },
     {
       type: "point",
