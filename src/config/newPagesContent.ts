@@ -171,7 +171,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(01).",
-      text: "Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water-powered turbine in a discussion which hours later led to us re-thinking about the idea of turbines powered by compressed air.",
+      text: "Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic.",
     },
     {
       type: "point",
@@ -182,6 +182,11 @@ const thanks: ChapterSection = {
       type: "point",
       marker: "\u21B3",
       text: "Thanks to him also for talking the need for vehicle-based short-distance transportation for those people who have trouble in walking.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "Thanks to Vikram also for reminding about ancient pottery-based cooling of water, an idea we will use in our generator design.",
     },
     {
       type: "point",
@@ -236,11 +241,6 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(06).",
-      text: "[Bellows](https://en.wikipedia.org/wiki/Bellows).",
-    },
-    {
-      type: "point",
-      marker: "(07).",
       text: "Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology ( EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.",
     },
     {
@@ -250,12 +250,12 @@ const thanks: ChapterSection = {
     },    
     {
       type: "point",
-      marker: "(08).",
+      marker: "(07).",
       text: "RMIT University, Australia, for the idea that sound can be used to make electrolysis better and make use of cheaper electrode material. The article saying this is here [Power Engineering](https://www.power-eng.com/hydrogen/sound-waves-boost-green-hydrogen-production/#) so we also thank the website [power-eng.com](https://www.power-eng.com).",
     },
     {
       type: "point",
-      marker: "(09).",
+      marker: "(08).",
       text: "New Scientist online magazine for carrying an article about a wonderful research by Jacob Rosenstein and his colleagues at Brown University, Rhode Island. This research is about storing computer data into sugar molecules, amino acids and other small molecules.",
     },
     {
@@ -270,12 +270,12 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(10).",
+      marker: "(09).",
       text: "Planetary Science Division of NASA for the idea of creating an artificial magnetosphere for Red One.",
     },
     {
       type: "point",
-      marker: "(11).",
+      marker: "(10).",
       text: "Coke Studio Bangla Season One for presenting the song 'Shob Lokey Koy' which is among our inspirations for our social system for the kosmos.",
     },
     {
@@ -290,7 +290,7 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(12).",
+      marker: "(11).",
       text: "The website [constitutionofindia.net](https://www.constitutionofindia.net) for the info about the discussions during the early years of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani and Brajeshwar Prasad.",
     },
     {
@@ -300,7 +300,7 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(13).",
+      marker: "(12).",
       text: "Ashok on the 'Nationalizer' account on [Medium](https://medium.com) for his essay about the Indian Socialist Brajeshwar Prasad who spoke in favour of Socialism during the design years of the Indian constitution",
     },
     {
@@ -310,12 +310,12 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(14).",
+      marker: "(13).",
       text: "Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be read here [Tagore essay](https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf) so we also thank Queen's University of Canada.",
     },
     {
       type: "point",
-      marker: "(15).",
+      marker: "(14).",
       text: " BR Ambedkar among other things, for saying in a 1953 vid interview with BBC that the so-called Democratic Process of five-yearly elections participated by multiple political parties and producing a stream of pompously titled bureaucrats, is not actual democracy and will never produce a society which brings proper food and other reasonable material needs to the masses and will never change society from feudalism to true democracy, but that change can be brought by Socialism.",
     },
     {
@@ -330,67 +330,67 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(16).",
+      marker: "(15).",
       text: "Che Guevara for his 1964 speech in the United Nations General Assembly, from which we take our mention of Mammon, and the YouTube channel of United Nations which carries this speech on this page [United Nations](https://www.youtube.com/watch?v=bufHojkoGtw).",
     },
     {
       type: "point",
-      marker: "(17).",
+      marker: "(16).",
       text: "The media agency 'The Atlantic' for this article about Yuri Gagarin's flight around Earth [The Atlantic](https://www.theatlantic.com/technology/archive/2011/04/yuri-gagarins-first-speech-about-his-flight-into-space/237134/).",
     },
     {
       type: "point",
-      marker: "(18).",
+      marker: "(17).",
       text: "The website 'Go Physics' for this collection of Yuri Gagarin's quotes [Go Physics](https://thegophysics.com/yuri-gagarin-quotes/).",
     },
     {
       type: "point",
-      marker: "(19).",
+      marker: "(18).",
       text: "The website [4lit](https://en.4lit.net) for sayings by Fidel Castro at this page [Fidel Castro quotes](https://en.4lit.net/citaty/people/1088/fidel_castro?page=2).",
     },
     {
       type: "point",
-      marker: "(20).",
+      marker: "(19).",
       text: "The website [idcommunism](https://www.idcommunism.com) for sayings by Fidel Castro at this page [Fidel Castro quotes](https://www.idcommunism.com/2018/08/remembering-fidel-castro-ruz-quotes-on-capitalism.html).",
     },
     {
       type: "point",
-      marker: "(21).",
+      marker: "(20).",
       text: "Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company. This social fund will be for helping citizens anywhere towards emergency situations like funeral expenses and medical expenses when the citizens are unable to find help otherwise.",
     },
     {
       type: "point",
-      marker: "(22).",
+      marker: "(21).",
       text: "The Facebook page of the ECOSOCC department of the African Union for explaining the wonderful African concept of Ubuntu... and by extension our thanks to Facebook too. The said page is [Ubuntu post](https://www.facebook.com/africanunion.ecosocc/posts/ubuntu-is-a-concept-deeply-rooted-in-african-philosophy-and-culture-particularly/1210650454579928/).",
     },
     {
       type: "point",
-      marker: "(23).",
+      marker: "(22).",
       text: " Rayees Kunnool for the idea about smell-based computer data communication.",
     },
     {
       type: "point",
-      marker: "(24).",
+      marker: "(23).",
       text: " Mr. Swamy of Bangalore for the idea that water machines which produce water from air should be designed in a way where an area's localized air should not be so much extracted of its water that the air becomes dry.",
     },
     {
       type: "point",
-      marker: "(25).",
+      marker: "(24).",
       text: " The cover art on our homepage is from the DeviantArt website's DreamUp AI picture generation facility.",
     },
     {
       type: "point",
-      marker: "(26).",
-      text: "The cover art on our homepage was converted to sepia color tone using the website [sepia.imageonline.co](https://sepia.imageonline.co).",
+      marker: "(25).",
+      text: "One variation of the cover art on our homepage was converted to sepia color tone using the website [sepia.imageonline.co](https://sepia.imageonline.co).",
     },
     {
       type: "point",
-      marker: "(27).",
+      marker: "(26).",
       text: "The online paint website [jspaint.app](https://jspaint.app) for help in manipulation of images for the website.",
     },    
     {
       type: "point",
-      marker: "(28).",
+      marker: "(27).",
       text: "In general we thank all the good thinkers of the past and present whose thoughts and works we use in our projects.",
     },
   ],
