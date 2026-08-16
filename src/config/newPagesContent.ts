@@ -17,17 +17,17 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(a).",
-      text: "If you believe in natural intelligence, ability, dignity and experience as a human. Doesn't matter if you are a fail in school 10th class. It will be even better if you deliberately dropped out of college.",
+      text: "If you wish to be at the very front of developing human evolution from Earth to across the infinite kosmos across hundreds of years... human evolution that is intellectual, social, technological, techno-social and biological.",
     },
     {
       type: "point",
       marker: "(b).",
-      text: "If your knowledge is actually useful to the industry of traveling and living in the kosmos in a democratic, non-profit, harmonious and Nature-respecting way. So this discounts work types like HR, CSR, MBA-requiring positions, most IT-requiring positions, most traditional-centralized-factory-system-forwarding positions and most finance-knowledge-requiring positions.",
+      text: "If you believe in natural intelligence, ability, dignity and experience as a human. Doesn't matter if you are a fail in school 10th class. It will be even better if you deliberately dropped out of college.",
     },
     {
       type: "point",
       marker: "(c).",
-      text: "If you wish to be at the very front of developing human evolution from Earth to across the infinite kosmos across hundreds of years... human evolution that is intellectual, techno-social and biological.",
+      text: "If your knowledge is actually useful to the industry of traveling and living in the kosmos in a democratic, non-profit, harmonious and Nature-respecting way. So this discounts work types like HR, CSR, MBA-requiring positions, most IT-requiring positions, most traditional techno knowledges from POV of centralized-factory system and most finance-knowledge-requiring positions.",
     },
     {
       type: "point",
