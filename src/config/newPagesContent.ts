@@ -176,17 +176,17 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to him also for provoking the idea in us for our website's topic against free market, money and profit which is in the 'Our social system' chapter.",
+      text: "Thanks to Vikram also for provoking the idea in us for our website's topic against free market, money and profit which is in the 'Our social system - Iskra' chapter.",
     },
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to him also for mentioning the need for vehicle-based short-distance transportation for those people who have trouble in walking.",
+      text: "Thanks to him also for talking the need for vehicle-based short-distance transportation for those people who have trouble in walking.",
     },
     {
       type: "point",
       marker: "(02).",
-      text: "Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the 'sand battery'.",
+      text: "Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the 'sand battery' which in turn led to us thinking of the water battery which will store heat just like the sand battery.",
     },
     {
       type: "point",
