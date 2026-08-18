@@ -191,7 +191,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to Vikram also for provoking a discussion about the scarcity of sand where the sand is required for the sand battery ( sand which stores heat ). This discussion led to us googling about natural materials ( like sand ) for a heat battery and we re-found water as the nice means of storing heat.",
+      text: "Thanks to Vikram also for pointing out possible scarcity of sand where the sand is required for the sand battery ( sand which stores heat ). This discussion led to us googling about natural materials ( like sand ) for a heat battery and we re-found water as the nice means of storing heat.",
     },
     {
       type: "point",
