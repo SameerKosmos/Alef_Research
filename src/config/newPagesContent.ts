@@ -190,13 +190,8 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "\u21B3",
-      text: "Thanks to Vikram also for pointing out possible scarcity of sand where the sand is required for the sand battery ( sand which stores heat ). This discussion led to us googling about natural materials ( like sand ) for a heat battery and we re-found water as the nice means of storing heat.",
-    },
-    {
-      type: "point",
       marker: "(02).",
-      text: "Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the 'sand battery' which in turn led to us thinking of the water battery which will store heat just like the sand battery.",
+      text: "Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the 'sand battery'.",
     },
     {
       type: "point",
