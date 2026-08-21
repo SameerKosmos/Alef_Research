@@ -17,51 +17,81 @@ const coworkerPage: ChapterSection = {
     {
       type: "point",
       marker: "(a).",
-      text: "If you believe in natural intelligence, ability, dignity and experience as a human. Doesn't matter if you are a fail in school 10th class. It will be even better if you deliberately dropped out of college.",
+      text: "If you wish to be at the very front of developing human evolution from Earth to across the infinite kosmos across hundreds of years... human evolution that is intellectual, social, technological, techno-social and biological.",
     },
     {
       type: "point",
       marker: "(b).",
-      text: "If your knowledge is actually useful to the industry of travelling and living in the kosmos in a democratic and non-profit way. So this discounts work types like HR, CSR, MBA-requiring positions, most IT-requiring positions and most finance-knowledge-requiring positions.",
+      text: "If you believe in natural intelligence, ability, dignity and experience as a human. Doesn't matter if you are a fail in school 10th class. It will be even better if you deliberately dropped out of college.",
     },
     {
       type: "point",
       marker: "(c).",
-      text: "If your spoken and written language is simple, gentle, honest, receptive, educated in the real sense and enlightened. Not language full of nonsense corporate buzzwords ( Cutting Edge, Center of Excellence, Paradigm Shift etc ).",
+      text: "If your knowledge is actually useful to the industry of traveling and living in the kosmos in a democratic, non-profit, harmonious and Nature-respecting way. So this discounts work types like HR, CSR, MBA-requiring positions, most IT-requiring positions, most traditional techno knowledges from POV of centralized-factory system and most finance-knowledge-requiring positions.",
     },
     {
       type: "point",
       marker: "(d).",
-      text: "If you respect the natural laws which we present in our website in two chapters, one about our techno systems and the other about our social system called Iskra.",
+      text: "If your spoken and written language is simple, gentle, honest, receptive, educated in the real sense and enlightened. Not language full of nonsense corporate buzzwords ( Cutting Edge, Center of Excellence, Paradigm Shift etc ).",
     },
     {
       type: "point",
       marker: "(e).",
-      text: "If you do innovative and simplifying thinking even if going against traditions, industry standards and fashions.",
+      text: "If you respect the natural laws which we present in our website in two chapters, one about our techno systems and the other about our social system called Iskra.",
     },
     {
       type: "point",
       marker: "(f).",
-      text: "If you have no love for feudalism and profit and consider money system as an irrational presence in the now, thus which must be eventually abolished. Our company is a non-profit and is internally democratic via the concept of Worker Cooperatives. To know more about the Worker Cooperative concept please read the topic about social organization of kosmonauts in our chapter about our social system Iskra.",
+      text: "If you do innovative and simplifying thinking even if going against traditions, industry standards and fashions.",
     },
     {
       type: "point",
       marker: "(g).",
-      text: "If you desire a largely secular borderless unification of humanity on Earth and in the kosmos.",
+      text: "If you are a free human in true sense and agree with Liberty, Equality, Fraternity and thus dislike feudalism and profit and consider money system as an irrational, oppressive presence in the now and must be eventually abolished.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "Our company is a non-profit and is internally democratic via the concept of Worker Cooperative where all you workers will be equal co-owners of the company and all you workers will directly and collectively manage the company on daily basis. No traditional feudal company owner, no bosses, no separate managers and no oppressed subordinate employees. All are equal in our company.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "About salary in our non-profit, democratic Worker Cooperative type of company. The income of the company, that income part which remains after repaying the investors on regular basis, this remaining part of the company income will be divided equally among all the workers of the company. And from their salary the workers will contribute equal amounts towards the upkeep expenditure for the company.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "To know more about the Worker Cooperative concept please read the topic about social organization of kosmonauts in the chapter about our social system Iskra on our website. Please also read the topic about natural equality to be a kosmonaut in the same chapter.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "Since our company Alef Research is a democracy... and rights go equally with duties in a democracy... thus every worker in our company will participate in the daily upkeep of the company, whether in cleaning the premises and grounds; or in preparing food and distributing food and cleaning their own plates and others' plates and the utensils and the kitchen; or in cleaning the toilets; or in security work; or other work.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "Our democratic and natural internal techno-social model for our company is part of our proposed model for all of human society.",
     },
     {
       type: "point",
       marker: "(h).",
-      text: "If you are well-presented in clothing, grooming and talking manner. Not fake but real. Not aggressive but gentle and genuine.",
+      text: "If you are well-presented in clothing, grooming and talking manner. Not fake but real. Not aggressive but gentle and genuine. You should be considerate of others and help others without hesitation.",
     },
     {
       type: "point",
       marker: "(i).",
-      text: "If you ideally consider the cat as the most perfect animal in the kosmos, ha ha.",
+      text: "If you desire a largely secular borderless unification of humanity on Earth and in the kosmos.",
     },
     {
       type: "point",
       marker: "(j).",
+      text: "If you ideally consider the cat as the most perfect animal in the kosmos, ha ha.",
+    },
+    {
+      type: "point",
+      marker: "(k).",
       text: "If you consider tea as one of the main human gifts giveable to alien cultures in the kosmos, ha ha.",
     },
   ],
@@ -141,17 +171,22 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(01).",
-      text: "Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water-powered turbine in a discussion which hours later led to us re-thinking about the idea of turbines powered by compressed air.",
+      text: "Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic.",
     },
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to him also for provoking the idea in us for our website's topic against free market, money and profit which is in the 'Our social system' chapter.",
+      text: "Thanks to Vikram also for provoking the idea in us for our website's topic against free market, money and profit which is in the 'Our social system - Iskra' chapter.",
     },
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to him also for mentioning the need for vehicle-based short-distance transportation for those people who have trouble in walking.",
+      text: "Thanks to him also for talking the need for vehicle-based short-distance transportation for those people who have trouble in walking.",
+    },
+    {
+      type: "point",
+      marker: "\u21B3",
+      text: "Thanks to Vikram also for reminding about ancient pottery-based cooling of water, an idea we will use in our generator design.",
     },
     {
       type: "point",
@@ -206,11 +241,6 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(06).",
-      text: "[Bellows](https://en.wikipedia.org/wiki/Bellows).",
-    },
-    {
-      type: "point",
-      marker: "(07).",
       text: "Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology ( EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.",
     },
     {
@@ -220,12 +250,12 @@ const thanks: ChapterSection = {
     },    
     {
       type: "point",
-      marker: "(08).",
+      marker: "(07).",
       text: "RMIT University, Australia, for the idea that sound can be used to make electrolysis better and make use of cheaper electrode material. The article saying this is here [Power Engineering](https://www.power-eng.com/hydrogen/sound-waves-boost-green-hydrogen-production/#) so we also thank the website [power-eng.com](https://www.power-eng.com).",
     },
     {
       type: "point",
-      marker: "(09).",
+      marker: "(08).",
       text: "New Scientist online magazine for carrying an article about a wonderful research by Jacob Rosenstein and his colleagues at Brown University, Rhode Island. This research is about storing computer data into sugar molecules, amino acids and other small molecules.",
     },
     {
@@ -240,12 +270,12 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(10).",
+      marker: "(09).",
       text: "Planetary Science Division of NASA for the idea of creating an artificial magnetosphere for Red One.",
     },
     {
       type: "point",
-      marker: "(11).",
+      marker: "(10).",
       text: "Coke Studio Bangla Season One for presenting the song 'Shob Lokey Koy' which is among our inspirations for our social system for the kosmos.",
     },
     {
@@ -260,7 +290,7 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(12).",
+      marker: "(11).",
       text: "The website [constitutionofindia.net](https://www.constitutionofindia.net) for the info about the discussions during the early years of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani and Brajeshwar Prasad.",
     },
     {
@@ -270,7 +300,7 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(13).",
+      marker: "(12).",
       text: "Ashok on the 'Nationalizer' account on [Medium](https://medium.com) for his essay about the Indian Socialist Brajeshwar Prasad who spoke in favour of Socialism during the design years of the Indian constitution",
     },
     {
@@ -280,12 +310,12 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(14).",
+      marker: "(13).",
       text: "Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be read here [Tagore essay](https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf) so we also thank Queen's University of Canada.",
     },
     {
       type: "point",
-      marker: "(15).",
+      marker: "(14).",
       text: " BR Ambedkar among other things, for saying in a 1953 vid interview with BBC that the so-called Democratic Process of five-yearly elections participated by multiple political parties and producing a stream of pompously titled bureaucrats, is not actual democracy and will never produce a society which brings proper food and other reasonable material needs to the masses and will never change society from feudalism to true democracy, but that change can be brought by Socialism.",
     },
     {
@@ -300,67 +330,67 @@ const thanks: ChapterSection = {
     },
     {
       type: "point",
-      marker: "(16).",
+      marker: "(15).",
       text: "Che Guevara for his 1964 speech in the United Nations General Assembly, from which we take our mention of Mammon, and the YouTube channel of United Nations which carries this speech on this page [United Nations](https://www.youtube.com/watch?v=bufHojkoGtw).",
     },
     {
       type: "point",
-      marker: "(17).",
+      marker: "(16).",
       text: "The media agency 'The Atlantic' for this article about Yuri Gagarin's flight around Earth [The Atlantic](https://www.theatlantic.com/technology/archive/2011/04/yuri-gagarins-first-speech-about-his-flight-into-space/237134/).",
     },
     {
       type: "point",
-      marker: "(18).",
+      marker: "(17).",
       text: "The website 'Go Physics' for this collection of Yuri Gagarin's quotes [Go Physics](https://thegophysics.com/yuri-gagarin-quotes/).",
     },
     {
       type: "point",
-      marker: "(19).",
+      marker: "(18).",
       text: "The website [4lit](https://en.4lit.net) for sayings by Fidel Castro at this page [Fidel Castro quotes](https://en.4lit.net/citaty/people/1088/fidel_castro?page=2).",
     },
     {
       type: "point",
-      marker: "(20).",
+      marker: "(19).",
       text: "The website [idcommunism](https://www.idcommunism.com) for sayings by Fidel Castro at this page [Fidel Castro quotes](https://www.idcommunism.com/2018/08/remembering-fidel-castro-ruz-quotes-on-capitalism.html).",
     },
     {
       type: "point",
-      marker: "(21).",
+      marker: "(20).",
       text: "Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company. This social fund will be for helping citizens anywhere towards emergency situations like funeral expenses and medical expenses when the citizens are unable to find help otherwise.",
     },
     {
       type: "point",
-      marker: "(22).",
+      marker: "(21).",
       text: "The Facebook page of the ECOSOCC department of the African Union for explaining the wonderful African concept of Ubuntu... and by extension our thanks to Facebook too. The said page is [Ubuntu post](https://www.facebook.com/africanunion.ecosocc/posts/ubuntu-is-a-concept-deeply-rooted-in-african-philosophy-and-culture-particularly/1210650454579928/).",
     },
     {
       type: "point",
-      marker: "(23).",
+      marker: "(22).",
       text: " Rayees Kunnool for the idea about smell-based computer data communication.",
     },
     {
       type: "point",
-      marker: "(24).",
+      marker: "(23).",
       text: " Mr. Swamy of Bangalore for the idea that water machines which produce water from air should be designed in a way where an area's localized air should not be so much extracted of its water that the air becomes dry.",
     },
     {
       type: "point",
-      marker: "(25).",
+      marker: "(24).",
       text: " The cover art on our homepage is from the DeviantArt website's DreamUp AI picture generation facility.",
     },
     {
       type: "point",
-      marker: "(26).",
-      text: "The cover art on our homepage was converted to sepia color tone using the website [sepia.imageonline.co](https://sepia.imageonline.co).",
+      marker: "(25).",
+      text: "One variation of the cover art on our homepage was converted to sepia color tone using the website [sepia.imageonline.co](https://sepia.imageonline.co).",
     },
     {
       type: "point",
-      marker: "(27).",
+      marker: "(26).",
       text: "The online paint website [jspaint.app](https://jspaint.app) for help in manipulation of images for the website.",
     },    
     {
       type: "point",
-      marker: "(28).",
+      marker: "(27).",
       text: "In general we thank all the good thinkers of the past and present whose thoughts and works we use in our projects.",
     },
   ],
