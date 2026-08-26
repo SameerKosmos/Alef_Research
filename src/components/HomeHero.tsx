@@ -32,7 +32,7 @@ export default function HomeHero() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.25 }}
-        className="font-semibold text-alef-ink text-sm md:text-base leading-relaxed text-left space-y-4"
+        className="font-semibold italic text-alef-ink text-sm md:text-base leading-relaxed text-left space-y-4"
       >
         <p>
           We are designing all necessary techno-social systems required for humans to 
