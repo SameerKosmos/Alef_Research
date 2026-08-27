@@ -1024,7 +1024,7 @@ export const socialsystemContent: ChapterSection[] = [
   },
   {
     id: `aliens`,
-    heading: `09. Meetings or sightings of aliens`,
+    heading: `09. Meetings with aliens and some more considerations about the kosmos`,
     blocks: [
     { type: "p", text: `It is not known what kinds of alien life we will encounter, whether on Red One or on Europa or beyond the Solar System, whether in the form of bacteria or as plants or as more intelligent animals or something else.` },
     { type: "p", text: `It is not known if aliens have been communicating with us or with any other lifeforms in the infinite kosmos. Some humans say we must actively find them, some say it is dangerous to try communicating with other lifeforms because they may seek us out to wipe us out.` },
@@ -1037,7 +1037,13 @@ export const socialsystemContent: ChapterSection[] = [
     { type: "p", text: `While looking for alien life or encountering them by chance, we must acknowledge the general idea that ultimately we and every kind of life origined maybe within dying stars and within the dust around stars and maybe the gas clouds in the kosmik void, we must develop pan-kosmos fraternity though subject to those lifes having or not having gentleness.` },
     { type: "p", text: `It is said that kosmos-origined lifes were carried through the kosmos in various forms like spores, viruses, eggs etc and seeded various worlds including ours to various levels and then evolutionary steps took over in many of those worlds depending on the conditions of those worlds. This idea is called Panspermia.` },
     { type: "p", text: `Example, it is said that the octopus and squid in Earth's seas are not from Earth but from the kosmos, their eggs carried within ice rocks and then released on Earth when the ice rocks fell into the seas here. [This is a good read about this topic on Padi.com website](https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/).` },
-    { type: "p", text: `And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.` }
+    { type: "p", text: `And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.` },
+    { type: "p", text: `The below sentences were realized in our convo with Don Michael Feeney who we mention above :` },
+    { type: "p", text: `Ultimately, all life forms in the kosmos came from star dust so we must necessarily have a kosmik consciousness and not an automatic us-against-them attitude against life forms whether on Earth or those we may meet beyond Earth, though of course subject to the consideration of their hostility to humans and human'ness as a whole.` },
+    { type: "p", text: `Three final things in this topic :` },
+    { type: "point", marker: `(a).`, text: `Nature is supreme and no human ardent belief in God and Devil will make that human superior to just a single star like the Sun. Humans are a mere speck in the kosmos. This simple idea we expressed in previous topics in this chapter.` },
+    { type: "point", marker: `(b).`, text: `Nature truly has some magic things like the phenomenon of Synchronicity which is very real but it is not known how it works even by the peepalz it has happened to multiple times.` },
+    { type: "point", marker: `(c).`, text: `Some people have a Destiny but it cannot be associated with any belief in the Divine.` }
   ]
   },
   {
