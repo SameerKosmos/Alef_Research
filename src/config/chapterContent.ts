@@ -421,7 +421,14 @@ export const technosystemsContent: ChapterSection[] = [
     { type: "point", marker: `(b).`, text: `Machines for water like pumps; portable extractors of water from ice, open water, soil and air; water purifiers; electrolysis machines.` },
     { type: "point", marker: `(c).`, text: `Interactive 3D display and touch-sensitive sound system using lightweight beads levitated by sound or other means. This type of system will be used within kosmos ships.` },
     { type: "point", marker: `(d).`, text: `Food preparation and cooking machines.` },
-    { type: "point", marker: `(e).`, text: `Other machines.` }
+    { type: "point", marker: `(e).`, text: `New modes of data communication.` },
+    { type: "point", marker: `(f).`, text: `Maybe light and other natural phenomenon can be made to shine on near and far natural objects including faraway non-star type kosmik objects like planets and moons, and the light and other such phenomenon can together create machines out of the natural material from those objects.` },
+    { type: "point", marker: `\u21B3`, text: `These created machines can be very large teleportation machines with hollow receptacles sized 500 meters across and high, and these large teleportation machines have their own propulsion mechanism by which they rise into the high orbit of that planet, where the teleportation machine can then signal to our Zarra-C asteroid cities far far away and the teleportation machines then very-fast-receive by teleportation, one of our Zarra-C asteroid cities into the large receptacle of each teleportation machine.` },
+    { type: "point", marker: `\u21B3`, text: `The Zarra-C asteroid cities can then exit the receptacle and check out the new planet or moon beneath.` },
+    { type: "point", marker: `\u21B3`, text: `This will not be faster-than-light travel but certainly faster travel.` },
+    { type: "point", marker: `\u21B3`, text: `Sounds sci-fi or magic but maybe possible. Requires research into particles which can pass through matter ( like all of the Zarra-C asteroid city to map out the entirety of the asteroid city at molecule level ) but these particles should not cause any harm to that matter, but also be detectable by detectors.` },
+    { type: "point", marker: `\u21B3`, text: `Use of such mechanism will have other uses too of course, though we presently can't think what those uses might be and what the techno-social effects might be.` },
+    { type: "point", marker: `(g).`, text: `Other machines.` }
   ]
   }
 ];
