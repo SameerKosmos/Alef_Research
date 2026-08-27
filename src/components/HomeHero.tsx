@@ -47,6 +47,9 @@ export default function HomeHero() {
           tax ( including money ), profit, class system, competition and tribalism.
         </p>
         <p>
+          The Alef in our company's name stands for "Advance by Liberty, Equality, Fraternity".
+        </p>
+        <p>
           We present the way towards a unified human utopia of milk, honey
           and harmony spread across the timeless and infinite kosmos.
         </p>
