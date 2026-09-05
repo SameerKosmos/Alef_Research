@@ -40,7 +40,7 @@ export default function HomeHero() {
           within hollowed asteroid cities and travel wherever these asteroid cities can be made to go.
         </p>
         <p>
-          Our techno-social systems combine a clean slate approach, rethinking about energy, bringing back of mechanical machines, 
+          Our techno-social systems combine a clean slate approach, rethinking about energy, bringing back of non-electric mechanical machines, 
           have simplified engineering, decentralized production, biological innovation, bio-mimicry, circular production,
           timeless design, gentleness, beauty, are buildable anywhere in the kosmos and have natural values including 
           by abolishing feudalism, tax ( including money ), profit, class system, competition and tribalism.
