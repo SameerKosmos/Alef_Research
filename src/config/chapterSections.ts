@@ -1,5 +1,6 @@
 import {
   technosystemsContent,
+  companyContent,
   socialsystemContent,
   type ChapterSection,
 } from "./chapterContent";
