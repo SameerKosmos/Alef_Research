@@ -56,11 +56,14 @@ export const technosystemsContent: ChapterSection[] = [
   ]
   },
   {
-    id: `faradn`,
+    id: `mecha`,
     heading: `02. Mecha compact, self-sustaining generator of mechanical power`,
     blocks: [
-    { type: "p", text: `This uses Stirling Engine.` },
-    { type: "p", text: `.` }
+    { type: "p", text: `We are designing this machine presently and this generator of mechanical power uses a gamma-type Stirling Engine in a simple configuration which uses a "water battery" ( container of hot water which retains the heat in the water ) and a terracotta-based water cooling mechanism to have a temperature difference to enable the Stirling Engine to start rotary motion.` },
+    { type: "p", text: `Part of this rotary motion will provide the mechanical power to the machines which require this power.` },
+    { type: "p", text: `Part of this rotary motion will be tapped to generate a small amount of heat to feed the heat to the water battery so that the water remains heated, and the rotary motion will keep the terracotta cooler working. This will enable the Stirling Engine to be self-sustained until of course the water does not evaporate or the water does not create so much deposits which impede the working of the system. But then the water can simply be replaced with new water.` },
+    { type: "p", text: `Since this mechanical power generator is small and simple, multiples of it can be used when necessary, whether to power different areas in the machines or as backups or as decentralized, distributed power sources.` },
+    { type: "p", text: `This system will be used to provide mechanical power for all our machines, either as the sole source of power if the machine is smaller like our Dune Buk wearable computer ( described in a next topic in this chapter ) or as a initial source of mechanical power if the machine is larger ( like our Zarra-A airship-based kosmosship ) where this initial mechanical power is further amplified mechanically.` }
   ]
   },
   {
