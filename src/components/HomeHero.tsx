@@ -37,7 +37,7 @@ export default function HomeHero() {
         <p>
           We are designing all necessary techno-social systems required for humans to 
           travel harmoniously to the kosmos ( space ), live harmoniously in the kosmos 
-          within hollowed asteroid cities and travel wherever these asteroid cities can be made to go.
+          within self-sufficient hollowed-asteroid cities and travel wherever these asteroid cities can be made to go.
         </p>
         <p>
           Our techno-social systems combine a clean slate approach, rethink energy where most machines don't need electricty,
