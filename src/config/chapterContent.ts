@@ -21,7 +21,7 @@ export const technosystemsContent: ChapterSection[] = [
     blocks: [
     { type: "p", text: `The below examples and points extend our techno philosophy given on our website's homepage :` },
     { type: "point", marker: `(a).`, text: `Gentleness : Renaming of the planet Mars to "Red One" as the former is the Roman god of war while the latter is a gentle name.` },
-    { type: "point", marker: `(b).`, text: `Simplicity : Avoid use of electricity and instead use other energies like mechanical power, air, sound, water and magnetism. Such systems will also work reliably in the kosmos environment where there are lot of electrical radiations.` },
+    { type: "point", marker: `(b).`, text: `Simplicity : Largely avoid use of electricity and instead use other energies like mechanical power, air, sound, water and magnetism. Such systems will also work reliably in the kosmos environment where there are lot of electrical radiations which cause electrical machines to misoperate and also make those machines complicated and dependent on complicated electricity generation mechanisms.` },
    { type: "point", marker: `(c).`, text: `Intelligence : The roots of our ideas won't be based on mathematical equations but on natural intelligence and continuous sensory observation, reflection, empathy, enlightenment, discussion, experiment, simplification and improvement.` },
     { type: "point", marker: `\u21B3`, text: `For us, mathematics is one of the processes and not a science by itself. We reject professional mathematics.` },
     { type: "point", marker: `\u21B3`, text: `We will live and travel in the real kosmos and professional mathematicians can live and travel within the non-real 14th Multi-verse Space-Time Dimension possible in their mathematical equations written on a white board in some international conference presided by some so-called genius mathematician chess grandmaster.` },
@@ -50,14 +50,16 @@ export const technosystemsContent: ChapterSection[] = [
     { type: "point", marker: `\u21B3`, text: `Also, our robot cats will be used for transporation of humans, and through this natural idea of robot cats with legs we end the era of wheeled vehicles.` },
     { type: "point", marker: `(m).`, text: `Disaster resilience : When technologies are simple, reliable, decentralized, manufacturable anywhere and many of them are biology-based or use much biology in production, such technologies will help return humanity anywhere to be resilient and recover in case of natural or other events like unusually big solar storm, comet or asteroid strike, a pointless war etc.` },
     { type: "point", marker: `(n).`, text: `Discarding of the idea of using Tall Rockets and Space Planes to go to the kosmos. The reasoning is given in the topic about our Zarra-A airship-type kosmosship in this chapter.` },
-    { type: "point", marker: `(o).`, text: `All our techno systems will be in alignment with the rest of our social system called Iskra whose chapter you will find from the menu on this website.` }
+    { type: "point", marker: `(o).`, text: `Simplicity and reliability also means that technology becomes part of life and not the pursuit in life where people wait all night in line for the release of new phone models in the morning and fight with other humans in that line and forget their necessary duty to be socially aware and forget that they need to be aware of Nature, even a simple as using binoculars to look at the Moon or laying on the terrace at noon to look at the sky or being serene by seeing cats happy or not able to see the Sun directly and realize how mere mortals we are in the grand presence of Nature.` },
+    { type: "point", marker: `(p).`, text: `Simplicity, reliability, modularity and anti-profit mindset also means that technology has long life and is easily repaired and one doesn't need to throw away devices because the profit-minded company says so because it wants to sell you a new model which is not different from the thrown away device.` },
+    { type: "point", marker: `(q).`, text: `All our techno systems will be in alignment with the rest of our social system called Iskra whose chapter you will find from the menu on this website.` }
   ]
   },
   {
     id: `faradn`,
-    heading: `02. Stirling Engine based compact, self-sustaining generator of mechanical power`,
+    heading: `02. Mecha compact, self-sustaining generator of mechanical power`,
     blocks: [
-    { type: "p", text: `.` },
+    { type: "p", text: `This uses Stirling Engine.` },
     { type: "p", text: `.` }
   ]
   },
@@ -65,7 +67,7 @@ export const technosystemsContent: ChapterSection[] = [
     id: `biology`,
     heading: `03. Biology researches`,
     blocks: [
-    { type: "point", marker: `(a).`, text: `Computer data storage inside the human body and inside plants by attaching the data to edible molecules which travel within the host organisms ( humans and plants ) and are useful to the host organisms,  but the inserted data molecules don't entirely get converted by the body but instead stay for long. Example molecules, sugar.` },
+    { type: "point", marker: `(a).`, text: `Computer data storage inside the human body and inside plants by attaching the data to edible molecules which travel within the host organisms ( humans and plants ) and are useful to the host organisms, but the inserted data molecules don't entirely get converted by the body but instead stay for long. Example molecules, sugar.` },
     { type: "point", marker: `\u21B3`, text: `For the human body, the data is attached to these edible molecules and then these molecules are mixed with food which can be drunk or eaten, and then the data can be extracted by a special mechanism within the Dune Buk wearable computer, seconds later, hours later, days later, months later or years later... maybe from saliva or sweat.` },
     { type: "point", marker: `\u21B3`, text: `Similar case for storage within plants.` },
     { type: "point", marker: `\u21B3`, text: `Since these edible molecules are very small, multiple copies of the data can be attached to the molecules as multiple backups.` },
@@ -111,7 +113,7 @@ export const technosystemsContent: ChapterSection[] = [
     id: `dunebuk`,
     heading: `04. Dune Buk wearable computer`,
     blocks: [
-    { type: "p", text: `Dune Buk will be a general-purpose, largely mechanical kosmos-operable wearable computer whose main body will be about three feet long and worn on the back of the upper arm using two straps - one around the upper arm and another over the shoulder, thus can be used with any kind of clothing ( kosmos suits, office dress, social clothing etc ) and will be aesthetic enough for the stylish person.` },
+    { type: "p", text: `Dune Buk will be a general-purpose, largely mechanical wearable computer whose main body will be about three feet long and worn on the back of the upper arm using two straps - one around the upper arm and another over the shoulder, thus can be used with any kind of clothing ( kosmos suits, office dress, social clothing etc ) and will be aesthetic enough for the stylish person.` },
     { type: "p", text: `Also, in situations when the Dune Buk's user is not wearing the Dune Buk, it can stand balanced on any surface with its screen stiff too.` },
     { type: "p", text: `About formation of the basic unit of data ( like a single bit in present electronic computers ) :` },
     { type: "point", marker: `(a).`, text: `Since we are going away radically from traditional electronic computing, this "away" will include new data forms in all aspects of our wearable computer.` },
