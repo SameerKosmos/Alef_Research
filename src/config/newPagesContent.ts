@@ -103,11 +103,11 @@ const bizPlanPage: ChapterSection = {
   blocks: [
     {
       type: "p",
-      text: "We are a non-profit, B2G design organization and our direct clients will be the space departments of national governments who will purchase the designs of our products for a reasonably cheap license fee ( ten million dollars ) and build our systems in their societies as many as possible and make them available to their citizens without feudalism and tax including money.",
+      text: "We are a non-profit, B2G design organization based in Bangalore, India, and our direct clients will be the space departments of national governments who will purchase the designs of our products for a reasonably cheap license fee ( ten million dollars ) and build our systems in their societies as many as possible and make them available to their citizens without feudalism and tax including money.",
     },
     {
       type: "p",
-      text: "Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which any of their society's citizens can become kosmonauts who can travel through the kosmos, including to the first human hollowed-asteroid city ZC-S000-C000-NAlif which we will build by 2035.",
+      text: "Our presently in-design systems will enable a cheap, simple, safer and democratic human space program for potentially every Earthen society by which any of their society's citizens can become kosmonauts who can travel through the kosmos, including to the first human hollowed-asteroid city ZC-S000-C000-NAlif which we will build by 2035.",
     },
     {
       type: "p",
@@ -186,12 +186,12 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to Vikram also for reminding at about ancient pottery-based cooling of water, an idea we will use in our design of a Stirling Engine based mechanical power generator.",
+      text: "Thanks to Vikram also for reminding at about ancient pottery-based cooling of water, an idea we will use in our design of a Stirling Engine based mechanical power generator called Mecha.",
     },
     {
       type: "point",
       marker: "\u21B3",
-      text: "Thanks to Vikram also for reminding about the scarcity of sand when the sand battery has to be constructed in the billions, a thought which then led to us searching on the internet about other natural means of storing heat which thus led us to the water battery. Again an idea we will use in our design of the Stirling Engine based mechanical power generator.",
+      text: "Thanks to Vikram also for reminding about the scarcity of sand when the sand battery has to be constructed in the billions, a thought which then led to us searching on the internet about other natural means of storing heat which thus led us to the water battery. Again an idea we will use in our design of our Mecha mechanical power generator.",
     },
     {
       type: "point",
