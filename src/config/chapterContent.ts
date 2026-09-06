@@ -1243,3 +1243,14 @@ export const socialsystemContent: ChapterSection[] = [
   ]
   }
 ];
+
+export const companyContent: ChapterSection[] = [
+  {
+    id: `namelogo`,
+    heading: `01. Our company's name and logo`,
+    blocks: [
+    { type: "p", text: `About name : Alef stands for "Advance by liberty, equality, fraternity" and is advise for all humanity by using the famous slogan from the French Revolution - "Liberty, Equality, Fraternity"... the only way for humanity to advance, evolve, become utopia.` },
+    { type: "p", text: `About logo : Our company's approach to the kosmos, and also what should be of the entire humanity, must have the gentleness, sensitiveness, curiosity, intelligence, wisdom, grace and beauty of a cat.` }
+  ]
+  }
+];
