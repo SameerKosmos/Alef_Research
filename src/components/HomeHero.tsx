@@ -39,10 +39,10 @@ export default function HomeHero() {
           within self-sufficient hollowed-asteroid cities and travel wherever these asteroid cities can be made to go.
         </p>
         <p>
-          Our techno-social systems combine a clean slate approach, re-think energy where electricty is not required or
-          is used minimally, where all techno systems have simplified engineering, have decentralized production, 
-          use biological innovation and bio-mimicry, circular production, timeless design, gentleness, beauty, are buildable anywhere 
-          in the kosmos and have natural values including by abolishing feudalism, tax ( including money ), profit, class system, 
+          Our techno-social systems combine a clean slate approach, re-think energy where electricty is not required, 
+          where all techno systems have simplified engineering, have decentralized production, use biological innovation and
+          bio-mimicry, circular production, timeless design, gentleness, beauty, are buildable anywhere in the kosmos and 
+          have natural values including by abolishing feudalism, tax ( including money ), profit, class system, 
           competition and tribalism.
         </p>
       </motion.div>
