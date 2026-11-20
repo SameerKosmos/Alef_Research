@@ -824,7 +824,7 @@ export const socialsystemContent: ChapterSection[] = [
     { type: "point", marker: `(g).`, text: `No artificial age-based separation among learners and teachers, and no artificial age-based feudalism. In the context of the present prevalent education mechanism, a ten-year-old student may be actually brilliant while a career professor who has retired at 60 age, may be an intellectual waste. Therefore, a better idea is the learners and the teachers being a natural mix of ages, with younger-aged people becoming teachers and older-aged people becoming learners, like actual society.` },
     { type: "point", marker: `(h).`, text: `Outcome should be the learners and the teachers becoming intellectuals and general researchers and not specialists, not careerists.` },
     { type: "point", marker: `(i).`, text: `Abolishing of titles like Doctor and Professor. Everyone will be a comrade learner.` },
-    { type: "point", marker: `(j).`, text: `Each discussion circle should really be called a Worker Cooperative, with the work here being learning in a collaborative and truly educated way about techno-social ideas and to turn these ideas into techno-social reality.` },
+    { type: "point", marker: `(j).`, text: `Each discussion circle should really be called a Worker Cooperative, with the work here being not only the learning done in a collaborative and truly educated way about techno-social ideas, but also these learnt techno-social ideas converted into techno-social reality ( social ideas, machines etc ) in local society and in the wider humanity.` },
     { type: "p", text: `Further explanations about education are in the topic "City re-design on Earth" in this chapter.` }
   ]
   },
