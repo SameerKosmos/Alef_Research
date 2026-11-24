@@ -1233,9 +1233,11 @@ export const socialsystemContent: ChapterSection[] = [
 export const companyContent: ChapterSection[] = [
   {
     id: `namelogo`,
-    heading: `01. Our company's name and logo`,
+    heading: `Our company's name and logo`,
     blocks: [
-    { type: "p", text: `About name : Alef stands for "Advance by liberty, equality, fraternity" and is advise for all humanity by using the famous slogan from the French Revolution - "Liberty, Equality, Fraternity"... the only way for humanity to advance, evolve, become utopia.` },
+    { type: "p", text: `About name, there are two meanings :` },
+    { type: "point", marker: `(a).`, text: `Alef stands for "Advance by liberty, equality, fraternity" and is a call for all humanity by using the famous slogan from the French Revolution, which is also included in other progressive works like the Indian constitution : "Liberty, Equality, Fraternity"... the only way for humanity to advance, evolve, become utopia.` },
+    { type: "point", marker: `(b).`, text: `Alef sounds like Alif which in West Asian languages means "The first". This meaning derivation by us refers to we of Alef Research creating the foundations for a utopian human future across the kosmos, but we leaving to the coming time to decide the utopia built on our-created foundations.` },
     { type: "p", text: `About logo : Our company's approach to the kosmos, and also what should be of the entire humanity, must have the gentleness, sensitiveness, curiosity, intelligence, wisdom, grace and beauty of a cat.` }
   ]
   }
