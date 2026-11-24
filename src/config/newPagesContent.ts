@@ -376,7 +376,7 @@ const thanks: ChapterSection = {
     {
       type: "point",
       marker: "(26).",
-      text: "In general we thank all the good thinkers of the past and present whose thoughts and works we use in our projects.",
+      text: "In general we thank all the good thinkers of the past and present whose thoughts and works we use in our projects. These people include Robert Stirling and his brother James who created and advanced the Stirling Engine which forms the basis of our compact, self-sustained generator of mechanical power Mecha.",
     },
   ],
 };
