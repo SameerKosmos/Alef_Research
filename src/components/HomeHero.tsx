@@ -34,10 +34,10 @@ export default function HomeHero() {
         className="font-semibold italic text-alef-ink text-sm md:text-base leading-relaxed text-left space-y-4"
       >
         <p>
-          We are designing all necessary techno-social systems required to take potentially any human and every human to 
-          the kosmos ( space ) in a harmonious and safe way, and for them to live harmoniously in the kosmos 
-          within our self-sufficient and self-propelled hollowed-asteroid cities called Zarra-C and travel 
-          wherever these asteroid cities can be made to go, whether towards the Sun or beyond Pluto.
+          We are designing all necessary techno-social systems required to take potentially any human on Earth, to the kosmos 
+          ( space ) in a harmonious and safe way, and for them to live harmoniously in the kosmos within our 
+          self-sufficient and self-propelled hollowed-asteroid cities called Zarra-C and travel wherever these asteroid cities
+          can be made to go, whether towards the Sun or beyond Pluto.
         </p>
         <p>
           Our techno-social systems combine a clean slate approach, re-think energy where electricty is not required, 
@@ -47,7 +47,7 @@ export default function HomeHero() {
           abolishing feudalism, tax ( including money ), profit, class system, competition and tribalism.
         </p>
         <p>
-          Our simple and radical way is the way towards foundations of Utopia for all of humanity. Please read the rest of 
+          Our simplifying and radical way is the way towards foundations of Utopia for all of humanity. Please read the rest of 
           our website.
         </p>
       </motion.div>
