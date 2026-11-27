@@ -43,7 +43,7 @@ export default function HomeHero() {
           Our techno-social systems combine a clean slate approach, re-think energy where electricty is not required, 
           where all techno systems have simplified engineering, have safety, have decentralized production, 
           use biological innovation and bio-mimicry, circular production, timeless design, gentleness, beauty, 
-          are buildable anywhere on Earth and anywhere in the kosmos, and have natural values including by 
+          are buildable in massive numbers anywhere on Earth and anywhere in the kosmos, and have natural values including by 
           abolishing feudalism, tax ( including money ), profit, class system, competition and tribalism.
         </p>
         <p>
