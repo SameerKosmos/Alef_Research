@@ -36,7 +36,7 @@ export default function HomeHero() {
         <p>
           We are designing all necessary techno-social systems required to take potentially any human on Earth, to the kosmos 
           ( space ) in a harmonious and safe way, and for them to live harmoniously in the kosmos within our 
-          self-sufficient and self-propelled hollowed-asteroid cities called Zarra-C and travel wherever these asteroid cities
+          self-sufficient and self-propelled hollowed-asteroid cities called Zarra-C, and travel wherever these asteroid cities
           can be made to go, whether towards the Sun or beyond Pluto.
         </p>
         <p>
