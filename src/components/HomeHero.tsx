@@ -52,8 +52,7 @@ export default function HomeHero() {
           competition, tribalism and personal vehicles.
         </p>
         <p>
-          By adopting these simplifying ways of ours, humanity will move towards Utopia spread across 
-          the timeless and infinite kosmos.
+          By these simplifying ways of ours, humanity will move towards Utopia spread across the timeless and infinite kosmos.
         </p>
       </motion.div>
     </section>
