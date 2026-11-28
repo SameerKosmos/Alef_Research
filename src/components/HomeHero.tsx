@@ -49,8 +49,7 @@ export default function HomeHero() {
         </p>
         <p>
           ...and have natural values including by abolishing feudalism, tax ( including money ), profit, class system,
-          competition, tribalism and personal ownership of resources which should be collectively owned 
-          ( water, housing, land, farms, transport etc ).
+          competition, tribalism and personal vehicles.
         </p>
         <p>
           By these simplifying ways we of Alef Research take humanity towards Utopia spread across 
