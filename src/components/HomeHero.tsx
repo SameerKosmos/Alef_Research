@@ -52,7 +52,7 @@ export default function HomeHero() {
           competition, tribalism and personal vehicles.
         </p>
         <p>
-          By these simplifying ways we of Alef Research take humanity towards Utopia spread across 
+          By adopting these simplifying ways of ours, humanity will move towards Utopia spread across 
           the timeless and infinite kosmos.
         </p>
       </motion.div>
